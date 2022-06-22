@@ -7,5 +7,5 @@ flask
 mock
 coverage
 
-numpy==1.15.2
+numpy==1.22.0
 torchtext==0.2.3
